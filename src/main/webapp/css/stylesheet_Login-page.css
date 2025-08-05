@@ -1,0 +1,41 @@
+body {
+    background-image: url(cloud-image.JPG);
+    background-size: 120%;
+    margin-top: 100px;
+        
+}
+
+div {
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    color: black;
+}
+
+form {
+    text-align: center;
+    margin-top: 60px;
+
+}
+input {
+    margin-left: 20px;
+}
+
+a {
+    margin-left: 70px;
+}
