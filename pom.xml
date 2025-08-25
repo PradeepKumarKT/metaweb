@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.metaweb</groupId>
-    <artifactId>metaweb-login</artifactId>
-    <version>1.0.0</version>
+    <artifactId>metaweb</artifactId>
+    <version>v1</version>
     <packaging>war</packaging>
 
     <name>Metaweb Login Page</name>
